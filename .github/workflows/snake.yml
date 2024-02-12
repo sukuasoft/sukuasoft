@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - maub
+    - main
 
 jobs:
   generate:
