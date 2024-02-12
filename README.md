@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou um completo amante de TI</p>
+<p align="left">IT is my true passion and I am always seeking to learn more about it.</p>
 
 ###
 
