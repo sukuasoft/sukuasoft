@@ -42,6 +42,7 @@ Software developer with experience in web development and integration of artific
 <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/npm/npm-original-wordmark.svg" alt="NPM Icon" width="30" height="30">
 
 ### Let's connect?
+I will be very happy to connect with you! My LinkedIn is below: <br>
 <a href="https://linkedin.com/in/sebastiao-sukuakueche">
 <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/linkedin/linkedin-original.svg" alt="Linkedin Icon" width="30" height="30">
 </a>
